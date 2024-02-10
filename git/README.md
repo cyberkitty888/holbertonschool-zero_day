@@ -1,1 +1,1 @@
-this file is for my Git projects
+This file is for my Git projects
